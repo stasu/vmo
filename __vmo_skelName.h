@@ -4,6 +4,8 @@
     VECTOR-MAPPED OBJECTS
 
     by Stanislav Stratu: stas.stratu@gmail.com
+    
+    https://github.com/stasu/vmo.git
 
     Licence: GNU GPLv3
 */
